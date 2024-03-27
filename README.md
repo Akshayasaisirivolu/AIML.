@@ -8,4 +8,6 @@ LAB-04:[IMPLEMENT LINEAR REGRESSION USING BOSTON HOUSING DATA](https://github.co
 
 LAB-05:[IMPLEMENT LOGISTIC REGRESSION MODEL USING TITANIC SHIP DATASET](https://github.com/Akshayasaisirivolu/AIML./blob/main/lab_05.ipynb)
 
-Lab-06:[ Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset](https://github.com/Akshayasaisirivolu/AIML./blob/main/LAB_06.ipynb)
+Lab-06:[K-NEAREST NEIGHBOUR CLASSIFICATION USING CLASSIFIED MANUFACTURING DATASET](https://github.com/Akshayasaisirivolu/AIML./blob/main/LAB_06.ipynb)
+
+LAB-07:[IMPLEMENT SUPPORT VECTOR MACHINE CLASSIFICATION USING BREAST CANCER DATASET](https://github.com/Akshayasaisirivolu/AIML./blob/main/lab_07.ipynb)

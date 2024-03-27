@@ -1,1 +1,2 @@
 Lab-01:[INTRODUCTION IN PYTHON PACKAGES-NUMPY,PANDAS,MATPLOTLIB AND ACCESS TO DATA SOURCES](https://github.com/Akshayasaisirivolu/AIML./blob/main/lab_01.ipynb)
+LAB-03:[IMPLEMENT AI GAME STRATEGY USING MINMAX AND ALPHA-BETA SEARCH ALGORITHM](https://github.com/Akshayasaisirivolu/AIML./blob/main/Lab_03.ipynb)

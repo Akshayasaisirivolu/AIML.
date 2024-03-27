@@ -7,3 +7,5 @@ LAB-03:[IMPLEMENT AI GAME STRATEGY USING MINMAX AND ALPHA-BETA SEARCH ALGORITHM]
 LAB-04:[IMPLEMENT LINEAR REGRESSION USING BOSTON HOUSING DATA](https://github.com/Akshayasaisirivolu/AIML./blob/main/lab_04.ipynb)
 
 LAB-05:[IMPLEMENT LOGISTIC REGRESSION MODEL USING TITANIC SHIP DATASET](https://github.com/Akshayasaisirivolu/AIML./blob/main/lab_05.ipynb)
+
+Lab-06:[ Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset](https://github.com/Akshayasaisirivolu/AIML./blob/main/LAB_06.ipynb)

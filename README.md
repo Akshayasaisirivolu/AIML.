@@ -16,4 +16,4 @@ LAB-08:[DECISION TREES FOR CLASSIFICATION](https://github.com/Akshayasaisirivolu
 
 LAB-O9:[IMPLEMENT RANDOM FORESTNENSABLE MODEL USING LEADING DATA](https://github.com/Akshayasaisirivolu/AIML./blob/main/lab_09.ipynb)
 
-LAB-10:[Implement K-Means Clustering using Iris Data](https://github.com/Akshayasaisirivolu/AIML./blob/main/LAB_10.ipynb)
+LAB-10:[IMPLEMENT K-MEANS CLUSTERING USING IRIS DATA](https://github.com/Akshayasaisirivolu/AIML./blob/main/LAB_10.ipynb)
